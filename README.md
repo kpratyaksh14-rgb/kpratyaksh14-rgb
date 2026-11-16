@@ -1,7 +1,5 @@
 # 💫 About Me:
-
-\<br> 🔭 I'm currently working on Python projects and Machine Learning applications\<br>\<br> 👯 I'm looking to collaborate on Python, AI & ML, and Open Source projects\<br>\<br> 🤝 I'm looking for help with Machine Learning, Data Structures & Algorithms, and Advanced Python\<br>\<br> 🌱 I'm currently learning Artificial Intelligence, Machine Learning, Data Science, and DSA\<br>\<br> 💬 Ask me about Python, C++, SQL, and Beginner-Level Machine Learning\<br>\<br> ⚡ Fun fact: I believe consistency and curiosity are the keys to becoming a great developer!
-
+### 💫 About Me<br><br>🔭 I'm currently working on **Python projects and Machine Learning applications**<br><br>👯 I'm looking to collaborate on **Python, AI & ML, and Open Source projects**<br><br>🤝 I'm looking for help with **Machine Learning, Data Structures & Algorithms, and Advanced Python**<br><br>🌱 I'm currently learning **Artificial Intelligence, Machine Learning, Data Science, and DSA**<br><br>💬 Ask me about **Python, C++, SQL, and Beginner-Level Machine Learning**<br><br>⚡ Fun fact: **I believe consistency and curiosity are the keys to becoming a great developer!**
 
 
 ## 🌐 Socials:
